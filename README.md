@@ -15,10 +15,10 @@
 
 ![Screenshot of the final project](https://github.com/Clara-Pacheco/-Explorer--Rocketseat--Projeto04/blob/main/assets/image-project.png)
 
-# 🧪 Tecnologias | HTML e CSS
+## 🧪 Tecnologias | HTML e CSS
 ---
 
-# 📕 Sobre
+##  📕 Sobre
 <p>Este é um projeto desenvolvido em treinamento, juntamente com a 
 <a  href="https://www.rocketseat.com.br">Rocketseat</a> 🚀
 no decorrer do programa <b>Explorer</b>.
