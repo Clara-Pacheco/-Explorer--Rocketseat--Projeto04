@@ -27,7 +27,7 @@ no decorrer do programa <b>Explorer</b>.
 
 📅 **17.04.2022**
 
-🕛 **Status:** Em andamento✔️
+🕛 **Status:** Concluído✔️
 
 🌎 **Result Preview: [Veja o Projeto]()**
 
