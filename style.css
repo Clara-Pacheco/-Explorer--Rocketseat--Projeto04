@@ -3,23 +3,23 @@
 }
 
 body {
-  width: 37.5rem;
+  max-width: 37.5rem;
   height: 87.0rem;
   background-color: #ECE9FD;
   margin: auto;
-  border: 1px solid black;
+
 
   font-family: 'Epilogue', sans-serif;
   font-size: 1.6rem;
 }
 
 main {
-  width: 32.9rem;
+  max-width: 33rem;
   height: 74.4rem;
   margin:  6.0rem 2.3rem 6.6rem 2.3rem;
 }
 
-main > p:first-child {
+.texto p:first-child {
 
 font-style: normal;
 font-weight: 400;
@@ -112,3 +112,35 @@ gap: 3.8rem;
 margin-bottom: 3.2rem;
 
 }
+
+/* Media Queries*/
+
+@media (min-width:700px){
+
+  body {
+    max-width: 1440px;
+  }
+  
+  
+  main {
+    max-width: 1020px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 11.6rem;
+    margin-top: 8rem;
+   
+  }
+
+  main > div {
+    max-width: 484px;
+  }
+
+  ul li {
+    max-width: 418px;
+    gap: 5.3rem;
+    align-items: center;
+    margin-bottom: 3.2rem;
+  }
+
+ 
+} 
